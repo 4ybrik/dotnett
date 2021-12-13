@@ -1,0 +1,29 @@
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.deps.json
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.AssemblyInfoInputs.cache
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.AssemblyInfo.cs
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.csproj.CoreCompileInputs.cache
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.csproj.AssemblyReference.cache
+D:\it\c#\c-\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.deps.json
+D:\it\c#\c-\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.dll
+D:\it\c#\c-\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.pdb
+D:\it\c#\c-\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.csprojAssemblyReference.cache
+D:\it\c#\c-\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.AssemblyInfoInputs.cache
+D:\it\c#\c-\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.AssemblyInfo.cs
+D:\it\c#\c-\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.csproj.CoreCompileInputs.cache
+D:\it\c#\c-\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.dll
+D:\it\c#\c-\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.pdb
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.deps.json
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.dll
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.pdb
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.csproj.AssemblyReference.cache
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.AssemblyInfoInputs.cache
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.AssemblyInfo.cs
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.csproj.CoreCompileInputs.cache
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.dll
+C:\Users\V-TUNE\Desktop\ДАТ НЕТ\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\V-TUNE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\V-TUNE\\.nuget\\packages"
+    ]
+  }
+}
